@@ -49,8 +49,8 @@ Create Tableau dashboards for interactive visualizations ([Tableau Public link, 
 
 Contact
 
-GitHub: [nic-stack]
-LinkedIn: [https://www.linkedin.com/in/nicolette-mtisi]
-Email: [nicmtisi@gmail.com]
+GitHub: (https://github.com/nic-stack)
+LinkedIn: https://www.linkedin.com/in/nicolette-mtisi
+Email: nicmtisi@gmail.com
 
-By [Nicolette], an aspiring data scientist passionate about UX analytics and social impact through data.
+By Nicolette, an aspiring data scientist passionate about UX analytics and social impact through data.
