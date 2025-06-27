@@ -24,7 +24,7 @@ confusion_matrix.png: Confusion matrix of model performance.
 
 Usage
 
-Clone the repository:git clone https://github.com/YourUsername/Twitter-Sentiment-Analysis.git
+Clone the repository:git clone (https://github.com/nic-stack/Twitter-Sentiment-Analysis)
 
 
 Install dependencies:pip install -r requirements.txt
